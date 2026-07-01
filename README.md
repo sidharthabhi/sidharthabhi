@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://github.com/sidharthabhi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=60A5FA&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%E2%9A%A1+Full-stack+apps+%2B+193K%2B-row+data+pipelines;%F0%9F%8F%A5+Shipped+a+live+Hospital+Management+System;%F0%9F%9B%A0%EF%B8%8F+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;%F0%9F%8E%93+B.Tech+CSE+'26+%E2%80%A2+Full-stack+intern+%40+NEXT360" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=60A5FA&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%E2%9A%A1+Full-stack+apps+%2B+193K%2B-row+data+pipelines;%F0%9F%8F%A5+Shipped+a+live+Hospital+Management+System;%F0%9F%9B%A0%EF%B8%8F+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;%F0%9F%8E%93+B.Tech+CSE+'26+%E2%80%A2+Open+to+full-stack+%26+data+roles" alt="Typing intro" />
 </a>
 
 <br>
@@ -72,7 +72,7 @@ class DataAnalyst:
 
     @property
     def status(self):
-        return "Full-stack intern @ NEXT360 · open to grad roles · Hyderabad"
+        return "Open to full-stack & data roles · Hyderabad"
 
 me = DataAnalyst()
 print(me.status)
@@ -383,7 +383,7 @@ focus_areas:
 
 building_now:
   - MediCore HMS: wiring remaining write flows (dispense, admit, billing)
-  - NEXT360:      backend, auth, and cart/checkout for an e-commerce platform
+  - Portfolio:    more shipped, deployable proof of work
 
 career_target:
   roles:    ["Full-stack Developer", "Data Analyst"]
