@@ -1,476 +1,245 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           ANIMATED HEADER — Gradient wave + name              ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
 <a href="https://github.com/sidharthabhi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sidhartha%20Tummanapally&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20Data%20%E2%80%A2%20Decision-grade%20systems%20on%20messy%20data&descAlignY=60&descSize=18&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sidhartha%20Tummanapally&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20%E2%80%A2%20Full-stack%20%E2%80%94%20decision-grade%20systems%20on%20messy%20data&descAlignY=60&descSize=18&descAlign=50" width="100%" alt="Sidhartha Tummanapally" />
 </a>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           TYPING SVG — Rotating value propositions            ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <a href="https://github.com/sidharthabhi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=60A5FA&center=true&vCenter=true&multiline=false&width=800&height=50&lines=%E2%9A%A1+Full-stack+apps+%2B+193K%2B-row+data+pipelines;%F0%9F%8F%A5+Shipped+a+live+Hospital+Management+System;%F0%9F%9B%A0%EF%B8%8F+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;%F0%9F%8E%93+B.Tech+CSE+'26+%E2%80%A2+Open+to+full-stack+%26+data+roles" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=60A5FA&center=true&vCenter=true&width=820&height=50&lines=%F0%9F%A4%96+LLM+post-training+%E2%80%A2+1%2C200%2B+RLHF+tasks+shipped;%F0%9F%8F%A5+Live+17-module+Hospital+Management+System;%F0%9F%93%8A+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+on+179K%2B-row+datasets;%F0%9F%8E%A7+Deep+learning%3A+74.9%25+on+UrbanSound8K+%2810-fold+CV%29;%F0%9F%8E%93+B.Tech+CSE+(Data+Science)+'26+%E2%80%A2+Open+to+work" alt="Typing intro" />
 </a>
 
-<br>
-
 <p>
-  <a href="https://linkedin.com/in/sidhartha-tummanapally-a79136288">
-    <img src="https://img.shields.io/badge/_OPEN_TO_WORK-22C55E?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117" alt="Open to Work" />
-  </a>
-  <img src="https://img.shields.io/badge/_HYDERABAD-60A5FA?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Hyderabad" />
-  <img src="https://img.shields.io/badge/_GRADUATING_2026-F59E0B?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" alt="Graduating 2026" />
+  <a href="https://linkedin.com/in/sidhartha-tummanapally-a79136288"><img src="https://img.shields.io/badge/OPEN_TO_WORK-22C55E?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117" alt="Open to work" /></a>
+  <img src="https://img.shields.io/badge/HYDERABAD_%7C_BANGALORE_%7C_REMOTE-60A5FA?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Hyderabad, Bangalore, Remote" />
+  <img src="https://img.shields.io/badge/B.TECH_CSE_(DS)_'26-F59E0B?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" alt="B.Tech 2026" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sidharthabhi&label=PROFILE+VIEWS&color=60a5fa&style=for-the-badge&labelColor=0D1117" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sidharthabhi?label=FOLLOWERS&style=for-the-badge&color=60a5fa&labelColor=0D1117" alt="followers" />
-  <img src="https://img.shields.io/github/stars/sidharthabhi?label=STARS&style=for-the-badge&color=60a5fa&labelColor=0D1117" alt="stars" />
+  <a href="https://sidharthabhi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=githubpages&logoColor=60a5fa" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sidhartha-tummanapally-a79136288"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
+  <a href="mailto:sidhartha1611@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=60a5fa" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sidharthabhi&label=Profile%20views&color=60a5fa&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<br>
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           ABOUT ME — Code block + animated GIF                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; `whoami`
-
-<table>
-<tr>
-<td width="60%" valign="top">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
 
 ```python
-class DataAnalyst:
-    """
-    CS (Data Science) grad building full-stack
-    apps and turning data into decisions.
-    """
-    def __init__(self):
-        self.name        = "Sidhartha Tummanapally"
-        self.role        = "Full-stack Developer & Data"
-        self.location    = "Hyderabad, India"
-        self.university  = "SR University · B.Tech CSE '26"
-        self.signature   = "Honest numbers. Auditable decisions."
+class Sidhartha:
+    """CS (Data Science) grad. I build ML models, data pipelines and
+    full-stack apps — and I care whether the numbers are actually right."""
 
-    @property
-    def stack(self):
-        return {
-            "query":     ["SQL", "PostgreSQL", "SQLite"],
-            "analyze":   ["Python", "Pandas", "scikit-learn"],
-            "visualize": ["Power BI", "Matplotlib", "Seaborn"],
-            "ship":      ["Next.js", "FastAPI", "React", "Prisma", "JWT"]
-        }
+    name       = "Sidhartha Tummanapally"   # Abhi
+    education  = "B.Tech CSE (Data Science), SR University · 2026"
+    experience = "LLM Post-Training Associate Intern @ Ethara AI"
+    location   = "Hyderabad, India · open to Bangalore & remote"
+    signature  = "Honest numbers. Auditable decisions."
 
-    @property
-    def status(self):
-        return "Open to full-stack & data roles · Hyderabad"
+    stack = {
+        "ml / ai":   ["scikit-learn", "CNNs / ResNet", "OpenCLIP", "RLHF", "RAG"],
+        "data":      ["SQL", "PostgreSQL", "Python", "Pandas", "Power BI", "Excel"],
+        "ship":      ["FastAPI", "React", "Next.js", "TypeScript", "Prisma"],
+    }
 
-me = DataAnalyst()
-print(me.status)
+    looking_for = ["Data Analyst", "Business Analyst", "GenAI / ML Engineer", "SWE"]
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
 
-<br>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Experience
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+**LLM Post-Training Associate Intern — Ethara AI** &nbsp;·&nbsp; *Jan 2026 – May 2026 · Remote*
 
-<br><br>
-
-```
-while True:
-    learn()
-    build()
-    ship()
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+- Completed **1,200+ RLHF annotation tasks** on image-generation models — rating outputs, rewriting prompts, flagging failure modes
+- Contributed to a **15% improvement** in model response quality through structured feedback
+- Raised annotation throughput **30%** with workflow-automation scripts
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<br>
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           PROJECTS — 2×2 grid with Build / Hard part          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; What I've built
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏎️ &nbsp; F1 Strategy Intelligence Dashboard</h3>
+<h3 align="center">🏥 &nbsp;MediCore HMS</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Modules-17-60A5FA?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/RBAC-8_roles-F59E0B?style=flat-square&labelColor=0D1117" />
+</p>
+
+> Hospital management system with **17 modules** under one role-aware login — patients, scheduling, records, pharmacy, labs, beds, billing, clinical notes.
+
+**The hard part →** RBAC for **8 user types** enforced in three layers (middleware, API, UI); JWT in httpOnly cookies, bcrypt, audit logging on every mutation, plus a command palette, role-specific dashboards and QR wristbands.
+
+<code>Next.js 14</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Tailwind</code>
+
+<p align="center">
+<a href="https://medicore-hms-alpha.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/sidharthabhi/medicore-hms"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📋 &nbsp;Career Ledger</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Solo_build-end_to_end-60A5FA?style=flat-square&labelColor=0D1117" />
+</p>
+
+> Full-stack job-application tracker that turns a list of applications into funnel and time-to-response analytics.
+
+**The hard part →** Multi-user JWT auth plus an analytics layer (Chart.js dashboards) on top of a normalised PostgreSQL schema — schema, REST API, frontend and deployment all solo.
+
+<code>FastAPI</code> <code>React 18</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>JWT</code>
+
+<p align="center">
+<a href="https://career-ledger-taupe.vercel.app/applications"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/sidharthabhi/career-ledger"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 &nbsp;Decision Intelligence Framework</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Review_time-2--4h_%E2%86%92_%3C2s-F59E0B?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SME_types-7-60A5FA?style=flat-square&labelColor=0D1117" />
+</p>
+
+> Turns raw Excel performance data into auditable Hike / Retain / Under Review decisions for SMEs — **under 2 seconds** per upload instead of 2–4 hours of manual review.
+
+**The hard part →** A 7-stage validation pipeline, a linear-regression trend engine and penalty-based confidence scoring (30–100%), with a reasoning trace behind every recommendation.
+
+<code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Python</code>
+
+<p align="center">
+<a href="https://github.com/sidharthabhi/decision-intelligence-framework"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏎️ &nbsp;F1 Strategy Intelligence</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_progress-F59E0B?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Scale-193K%2B_laps-60A5FA?style=flat-square&labelColor=0D1117" />
 </p>
 
-> ETL pipeline ingesting **193K+ laps** and **12K+ pit stops** across 7 F1 seasons from 4 source APIs into a normalised SQLite warehouse.
+> ETL from **4 APIs** loading **193K+ laps** and 12K+ pit stops across 7 seasons into a normalised SQLite warehouse.
 
-**The hard part →** A 7-condition lap-validity flag to filter in/out laps, safety-car laps, and deleted times. Validated against famous moments (2018 German GP, 2021 Abu Dhabi) to prove the warehouse could recreate F1 history before any insight ran on top.
+**The hard part →** A 7-condition lap-validity flag (in/out laps, safety car, deleted times), checked against races like 2018 Germany and 2021 Abu Dhabi before any analysis runs on top. SQL analysis layer and Power BI report in progress.
 
-<p>
-<code>Python</code> <code>SQL</code> <code>SQLite</code> <code>Power BI</code> <code>ETL</code> <code>Pandas</code>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 &nbsp; Decision Intelligence Framework</h3>
+<code>Python</code> <code>Pandas</code> <code>SQL</code> <code>SQLite</code> <code>Power BI</code>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Capstone-Active-22C55E?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Speedup-7200x-F59E0B?style=flat-square&labelColor=0D1117" />
-</p>
-
-> Full-stack HR performance evaluation platform. Cuts SME appraisal cycles from **2–4 hours → under 2 seconds** per upload.
-
-**The hard part →** Linear-regression trend analysis combined with a confidence-scoring engine that produces bias-free Hike / Retain / Under Review recommendations — each with a full reasoning trace so managers can audit every output.
-
-<p>
-<code>FastAPI</code> <code>React 18</code> <code>PostgreSQL</code> <code>Python</code>
-</p>
-
-<p align="center">
-<a href="https://github.com/sidharthabhi/decision-intelligence-framework">
-  <img src="https://img.shields.io/badge/→%20View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" />
-</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📋 &nbsp; Career Ledger</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Solo_Build-Yes-60A5FA?style=flat-square&labelColor=0D1117" />
-</p>
-
-> Full-stack job application tracker with status, funnel, and time-to-response analytics. Built end-to-end as a solo project.
-
-**The hard part →** Multi-user JWT auth + a funnel analytics layer that turns a tracker into actual job-search intelligence. Schema design, REST API, frontend, auth, deployment — all solo.
-
-<p>
-<code>FastAPI</code> <code>React 18</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>JWT</code>
-</p>
-
-<p align="center">
-<a href="https://career-ledger-taupe.vercel.app/applications">
-  <img src="https://img.shields.io/badge/→%20Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🏥 &nbsp; MediCore HMS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Roles-8-60A5FA?style=flat-square&labelColor=0D1117" />
-</p>
-
-> Full-stack Hospital Management System running 11 modules under one role-aware login — patients, scheduling, records, pharmacy, labs, beds, billing.
-
-**The hard part →** Role-based access control for **8 user types**, enforced in three layers (route middleware, API authorization, UI). Opaque non-enumerable IDs to prevent data leakage, validated write flows (duplicate detection, slot-clash checks), and audit logging on every mutation.
-
-<p>
-<code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>JWT</code>
-</p>
-
-<p align="center">
-<a href="https://medicore-hms-alpha.vercel.app">
-  <img src="https://img.shields.io/badge/→%20Live%20Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/sidharthabhi/medicore-hms">
-  <img src="https://img.shields.io/badge/→%20Code-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" />
-</a>
+<a href="https://github.com/sidharthabhi/f1-strategy-intelligence"><img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=60a5fa" /></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<br>
+### 🔬 &nbsp;ML & analytics work
+
+| Project | What it shows | Result |
+|---|---|---|
+| 🎧 **UrbanSound8K audio classification** | Mel-spectrograms + custom CNN vs ResNet18, SpecAugment, official 10-fold CV, Grad-CAM | **74.9% ± 6.2%**; found a significant augmentation × model-capacity interaction (p < 0.001) |
+| 👕 **Product intelligence with OpenCLIP** | One ViT-B/32 backbone for recommendations, de-duplication and text-to-image search on fashion products | Three features from one shared embedding space |
+| 🚚 **Supply Chain Decision Intelligence** | Supplier risk modelling on **179K+ transactions** across 45 suppliers, Power BI dashboard | Random Forest **AUC 0.80**, 66 prioritised actions |
+| 🏦 **"Two Numbers Don't Match"** | Multi-system bank reconciliation: SQL investigation, data-quality memo | **₹52.9L** gap traced to six root causes, down to a ₹116.95 residual |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<br>
+<!-- ═══════════════════════════ TOOLKIT ═══════════════════════════ -->
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           TOOLKIT — Categorized with skillicons               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp; Toolkit
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp;Toolkit
 
 <div align="center">
 
-<h4>&nbsp; Languages & Analytics &nbsp;</h4>
-
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
-
-<br><br>
-
+**Data & ML**<br>
+<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,mysql&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-
-<br><br>
-
-<h4>&nbsp; Data Visualization & BI &nbsp;</h4>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-<br><br>
-
-<h4>&nbsp; Databases &nbsp;</h4>
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark" />
-
-<br><br>
-
-<h4>&nbsp; Backend & Frontend &nbsp;</h4>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,fastapi,prisma,vercel&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-
-<br><br>
-
-<h4>&nbsp; Tools & Environment &nbsp;</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+**Build & ship**<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,fastapi,prisma,tailwind,vercel,git,github,linux&theme=dark" />
 
 </div>
 
-<br>
+**Certifications:**
+[Architecting Solutions on AWS](https://drive.google.com/file/d/1jDotpgwrs4zwQcgcV78ay8zeRoBWqjJ5/view) ·
+[Data Structures & Algorithms — UC San Diego](https://drive.google.com/file/d/1F0PKEd_KTOQ-ECT1-dbdTSaciatwPosW/view) ·
+[Oracle SQL Databases — LearnQuest](https://drive.google.com/file/d/1AYQYNPLVAhLYSVBeKOJcmnj05U0ztqQP/view) ·
+[Python for Data Science — IBM](https://drive.google.com/file/d/1JdeK0HMFKsyTmKL2gGG1N_JG_GHPgGj-/view) ·
+IBM Machine Learning with Python · Microsoft Azure Machine Learning
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
-<br>
+<!-- ═══════════════════════════ STATS (self-hosted) ═══════════════════════════ -->
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           STATS — GitHub stats + streak + langs + activity    ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; The numbers
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;The numbers
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=sidharthabhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-</td>
-<td>
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthabhi&theme=tokyonight&hide_border=true&background=0D1117&stroke=60a5fa&ring=60a5fa&fire=22c55e&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthabhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60a5fa&text_color=c9d1d9&hide=jupyter%20notebook,html,css&langs_count=8&card_width=600" />
+<img src="https://raw.githubusercontent.com/sidharthabhi/sidharthabhi/output/stats.svg" height="190" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/sidharthabhi/sidharthabhi/output/langs.svg" height="190" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sidharthabhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" width="95%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharthabhi&theme=tokyo-night&bg_color=0D1117&color=60a5fa&line=60a5fa&point=22c55e&hide_border=true&area=true&hide_title=false" width="95%" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/sidharthabhi/sidharthabhi/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           METRICS — Highlight cards                           ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> &nbsp; By the metrics
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/sidharthabhi/sidharthabhi/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake" />
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 193K+
-
-F1 laps processed in ETL
-
-</td>
-<td align="center" width="25%">
-
-### 2 sec
-
-per HR appraisal
-*(was 2–4 hours)*
-
-</td>
-<td align="center" width="25%">
-
-### 8 roles
-
-RBAC in MediCore HMS *(live)*
-
-</td>
-<td align="center" width="25%">
-
-### +263%
-
-club membership growth as President
-
-</td>
+<td align="center" width="25%"><h3>1,200+</h3>RLHF tasks at Ethara AI</td>
+<td align="center" width="25%"><h3>&lt; 2 sec</h3>per appraisal<br><sub>(was 2–4 hours)</sub></td>
+<td align="center" width="25%"><h3>17 modules</h3>live in MediCore HMS</td>
+<td align="center" width="25%"><h3>400 → 1,630+</h3>E-Gaming Club members as President</td>
 </tr>
 </table>
 
 </div>
 
-<br>
+<!-- ═══════════════════════════ NOW ═══════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           CURRENTLY LEARNING                                  ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHy/giphy.gif" width="28"> &nbsp; Currently sharpening
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHy/giphy.gif" width="28"> &nbsp;Right now
 
 ```yaml
-focus_areas:
-  - Full-stack:   Next.js App Router, server components, API design
-  - Advanced SQL: window functions, recursive CTEs, query optimization
-  - Auth & RBAC:  JWT sessions, role-based access, secure-by-design APIs
-  - Statistics:   hypothesis testing and inference for product analytics
+building:
+  - RAG evaluation platform: vector vs hybrid vs graph retrieval, measured on
+                             groundedness, hallucination and calibration
+  - F1 Strategy Intelligence: SQL analysis layer + Power BI report
+  - Crop-stress detection:    unsupervised NDVI/NDWI anomaly detection from satellite imagery
 
-building_now:
-  - MediCore HMS: wiring remaining write flows (dispense, admit, billing)
-  - Portfolio:    more shipped, deployable proof of work
-
-career_target:
-  roles:    ["Full-stack Developer", "Data Analyst"]
-  location: "Hyderabad, India"
-  open_to:  ["Product startups", "GCCs", "Analytics firms", "Fintech"]
+open_to: ["Data Analyst", "Business Analyst", "GenAI / ML Engineer", "SWE"]
+where:   ["Hyderabad", "Bangalore", "Remote"]
 ```
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           QUOTE                                               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<br>
-
-<h3>
-
-> *"Most student portfolios are screenshots.*  
-> *Mine are live URLs you can log into."*
-
-</h3>
-
-<br>
+> *"Most student portfolios are screenshots. Mine are live URLs you can log into."*
 
 </div>
 
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           CONTACT                                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> &nbsp; Let's talk
-
-<div align="center">
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<a href="https://linkedin.com/in/sidhartha-tummanapally-a79136288">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
-<sub>Connect</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="mailto:sidhartha1611@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br>
-<sub>Email me</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://sidharthabhi.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /><br>
-<sub>See my work</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://career-ledger-taupe.vercel.app/applications">
-<img src="https://img.shields.io/badge/Live_App-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /><br>
-<sub>Career Ledger</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://medicore-hms-alpha.vercel.app">
-<img src="https://img.shields.io/badge/MediCore_HMS-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /><br>
-<sub>Live HMS</sub>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-</div>
-
-<br>
-
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║           FOOTER WAVE                                         ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Open%20to%20collaborate%20%E2%80%A2%20Available%20for%20full-time%20roles&descAlignY=88&descSize=12" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
